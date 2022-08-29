@@ -2,6 +2,16 @@
 
 Im Steven, a web development student from Germany.
 
+## Thatsme
+
+> 29 Years
+
+> Languages: German, English
+
+> Hobbies: Coding, Traveling, Sport, Friends, Gaming
+
+> Education in self-realization and success (general)
+
 ## Skills
 
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code"></code>
